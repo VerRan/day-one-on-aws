@@ -9,6 +9,8 @@ https://github.com/VerRan/bigdata-on-aws
 ## MicorService on AWS
 ### SpringCloud on EKS
 https://github.com/VerRan/cloud_university
+### Log Collect for container
+https://github.com/VerRan/farget-log-collect-demo
 
 ### 
 ## Serverless on AWS
@@ -20,3 +22,10 @@ https://github.com/VerRan/serverless-workshop
 
 ### Lambda with docker image
 https://github.com/VerRan/lamabda-image-demo
+
+### Image handler Java Version
+https://github.com/VerRan/image-serverless-java
+
+### Lambda 预配置并发测试
+https://github.com/VerRan/lambda-pc-test
+
