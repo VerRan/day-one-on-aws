@@ -6,7 +6,10 @@ https://github.com/VerRan/ml-on-aws/
 ## Big Data on AWS
 ### Flink on aws
 https://github.com/VerRan/bigdata-on-aws
-## MicorService on AWS
+
+## DevOps on AWS
+### Build Devops env with cdk 
+https://github.com/VerRan/devops
 ### SpringCloud on EKS
 https://github.com/VerRan/cloud_university
 ### Log Collect for container
