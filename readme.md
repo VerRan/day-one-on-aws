@@ -7,7 +7,7 @@ https://github.com/VerRan/ml-on-aws/
 https://github.com/VerRan/bigdata-on-aws
 
 ## DevOps on AWS
-### Build Devops env with cdk 
+### devops on aws
 https://github.com/VerRan/devops
 ### SpringCloud on EKS
 https://github.com/VerRan/cloud_university
